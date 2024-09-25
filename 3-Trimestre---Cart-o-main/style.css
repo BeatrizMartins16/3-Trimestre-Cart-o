@@ -1,3 +1,12 @@
 body{
     background-color: aliceblue;
 }
+
+#container{
+    display:flex;
+}
+
+.cartão{
+    margin: 1rem 1rem;
+    background-color: aquamarine;
+}
